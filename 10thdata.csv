@@ -1,0 +1,35 @@
+MATHS,"S1(phy,che)",S2(bio),social,Group
+2,2,2,2,Bio/maths
+2,2,1,2,Cs/maths
+2,2,2,1,Bio/maths
+2,2,1,1,Cs/maths
+2,2,2,0,Bio/maths
+2,2,1,0,Bio/maths
+2,2,0,2,Cs/maths
+2,2,0,1,Cs/maths
+2,2,0,0,Cs/maths
+1,2,2,0,Bio/cs
+1,2,2,1,Bio/cs
+1,2,2,0,Bio/cs
+1,1,1,1,Computer Application
+1,2,1,1,Computer Application
+1,2,0,1,Computer Application
+1,2,1,2,Computer Application
+1,1,1,2,Computer Application
+1,1,0,1,Computer Application
+1,1,0,2,Computer Application
+1,1,1,0,Computer Application
+1,0,0,1,Computer Application
+1,0,1,1,Computer Application
+1,0,1,0,Computer Application
+2,1,1,1,bussiness maths
+2,2,1,1,bussiness maths
+2,2,0,1,bussiness maths
+2,2,1,2,bussiness maths
+2,1,1,2,bussiness maths
+2,1,0,1,bussiness maths
+2,1,0,2,bussiness maths
+2,1,1,0,bussiness maths
+2,0,0,1,bussiness maths
+2,0,1,1,bussiness maths
+2,0,1,0,bussiness maths
