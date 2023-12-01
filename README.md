@@ -1,2 +1,2 @@
-# CareerQuest
+# AI MANIACS
 
