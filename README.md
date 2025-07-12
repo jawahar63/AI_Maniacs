@@ -39,13 +39,6 @@ People frequently struggle to choose careers that align with their abilities and
 2. **Install Dependencies**
    - [Add instructions for setting up the environment, e.g., Python, pip, requirements.txt, etc.]
 
-3. **Run the Application**
-   - [Describe how to start the application, including commands and configuration, if any]
-
-## 💻 Usage
-
-- [Explain how users interact with the tool, provide usage examples, and describe the input/output workflow]
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
